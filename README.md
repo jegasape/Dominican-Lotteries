@@ -19,9 +19,3 @@ dotnet restore
 dotnet build
 dotnet run
 ```
-
-- **CORE** : cd /home/$(whoami)/Dominican-Lotteries/LotteryDR/Core.cs
-
-RESULT :
-
-![alt text](https://user-images.githubusercontent.com/44595343/114319378-41f6a600-9adf-11eb-9914-3951f7ad4e1c.png)
